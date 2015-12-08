@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\res"/><source path="C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\build\generated\res\rs\release"/><source path="C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\res"><file name="icon" path="C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\res\drawable\icon.png" qualifiers="" type="drawable"/><file name="promo" path="C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\res\drawable\promo.png" qualifiers="" type="drawable"/><file name="screenshot1" path="C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\res\drawable\screenshot1.png" qualifiers="" type="drawable"/><file name="screenshot2" path="C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\res\drawable\screenshot2.png" qualifiers="" type="drawable"/><file path="C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\res\values\strings.xml" qualifiers=""><string name="description">Shows a seismograph of the current acceleration of your Android device.</string><string-array name="axis_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array><string name="app_name">Seismo Wallpaper</string><string name="wallpaper_name">Seismo</string><string-array name="axis">
+        <item>x</item>
+        <item>y</item>
+        <item>z</item>
+    </string-array><string-array name="seconds_to_save">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+    </string-array></file><file name="settings" path="C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\res\xml\settings.xml" qualifiers="" type="xml"/><file name="wallpaper" path="C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\res\xml\wallpaper.xml" qualifiers="" type="xml"/></source><source path="C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\build\generated\res\rs\release"/><source path="C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\release\res"/></dataSet><mergedItems/></merger>

@@ -1,0 +1,90 @@
+[
+    {
+        "outputFile": "C:\\Users\\re\\AndroidStudioProjects\\SeismoWallpaper\\app\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "C:\\Users\\re\\AndroidStudioProjects\\SeismoWallpaper\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "C:\\Users\\re\\AndroidStudioProjects\\SeismoWallpaper\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 302,
+                    "endLine": 19,
+                    "endColumn": 19,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "C:\\Users\\re\\AndroidStudioProjects\\SeismoWallpaper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 533,
+                        "endLine": 22,
+                        "endColumn": 19,
+                        "endOffset": 741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 508,
+                    "endColumn": 53,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "C:\\Users\\re\\AndroidStudioProjects\\SeismoWallpaper\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endColumn": 111,
+                    "endOffset": 669
+                },
+                "from": {
+                    "file": "C:\\Users\\re\\AndroidStudioProjects\\SeismoWallpaper\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 674,
+                    "endColumn": 49,
+                    "endOffset": 719
+                },
+                "from": {
+                    "file": "C:\\Users\\re\\AndroidStudioProjects\\SeismoWallpaper\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,3 +1,21 @@
+*.apk
+*.ap_
+*.dex
+*.class
+*.so
+
+bin/
+obj/
+gen/
+proguard/
+local.properties
+
+.gradle/*
+.idea/*
+build/*
+*.iml
+
+
 *.class
 
 # Mobile Tools for Java (J2ME)

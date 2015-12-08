@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\re\\AndroidStudioProjects\\SeismoWallpaper\\app\\build\\intermediates\\res\\merged\\release\\xml\\wallpaper.xml",
+        "source": "C:\\Users\\re\\AndroidStudioProjects\\SeismoWallpaper\\app\\src\\main\\res\\xml\\wallpaper.xml"
+    },
+    {
+        "merged": "C:\\Users\\re\\AndroidStudioProjects\\SeismoWallpaper\\app\\build\\intermediates\\res\\merged\\release\\xml\\settings.xml",
+        "source": "C:\\Users\\re\\AndroidStudioProjects\\SeismoWallpaper\\app\\src\\main\\res\\xml\\settings.xml"
+    }
+]

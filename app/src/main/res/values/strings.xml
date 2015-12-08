@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Seismo Wallpaper</string>
+    <string name="wallpaper_name">Seismo</string>
+    <string name="description">Shows a seismograph of the current acceleration of your Android device.</string>
+    <string-array name="axis">
+        <item>x</item>
+        <item>y</item>
+        <item>z</item>
+    </string-array>
+    <string-array name="axis_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="seconds_to_save">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+    </string-array>
+</resources>

@@ -1,0 +1,66 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:5:5-31
+		INJECTED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:6:3-24:17
+	android:label
+		ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:6:46-78
+	android:icon
+		ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:6:16-45
+service#com.ariwilson.seismowallpaper.SeismoWallpaper
+ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:7:2-19:12
+	android:enabled
+		ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:9:6-28
+	android:label
+		ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:11:6-44
+	android:permission
+		ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:12:6-60
+	android:icon
+		ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:10:6-35
+	android:name
+		ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:8:6-36
+intent-filter#android.service.wallpaper.WallpaperService
+ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:13:6-15:22
+	android:priority
+		ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:13:21-41
+action#android.service.wallpaper.WallpaperService
+ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:14:8-76
+	android:name
+		ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:14:16-73
+meta-data#android.service.wallpaper
+ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:16:6-18:44
+	android:resource
+		ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:18:8-41
+	android:name
+		ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:17:8-48
+activity#com.ariwilson.seismowallpaper.SeismoWallpaperSettings
+ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:20:2-23:33
+	android:label
+		ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:22:7-45
+	android:exported
+		ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:23:7-30
+	android:name
+		ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:21:6-45
+uses-sdk
+ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:25:3-41
+	android:targetSdkVersion
+		INJECTED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml:25:13-38
+		INJECTED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\re\AndroidStudioProjects\SeismoWallpaper\app\src\main\AndroidManifest.xml
